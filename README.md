@@ -1,5 +1,5 @@
 ## BLOGS
 
-- (https://geohot.github.io/blog/)
-- (https://www.lesswrong.com/)
+- [GEORGE HOTZ](https://geohot.github.io/blog/)
+- [YUDKOWSKY](https://www.lesswrong.com/)
 - 
